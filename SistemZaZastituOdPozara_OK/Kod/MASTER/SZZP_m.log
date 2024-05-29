@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2525 -DL -O11111114 -fo25 -N"D:\Users\Borko\Predmeti\Projektovanje elektronskih sistema\Studenti2022\Projekti\SistemZaZastituOdPozara\MASTER\SZZP_m.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Users\Borko\Predmeti\Projektovanje elektronskih sistema\Studenti2022\Projekti\SistemZaZastituOdPozara\MASTER\" "SZZP_m.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_EthEnc28j60.mcl"	 
+hint: 0	1138	Available RAM: 3947 [bytes], Available ROM: 49152 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 63 ms	 
+diagnostics: 0	122	Compilation Started	SZZP_m.c
+warning: 257	1509	Generated baud rate is 19290 bps (error = 0.47 percent)	SZZP_m.c
+diagnostics: 571	123	Compiled Successfully	SZZP_m.c
+hint: 538	1162	Variable 'ByteX' has been eliminated by optimizer	SZZP_m.c
+diagnostics: 0	127	All files Compiled in 422 ms	 
+hint: 0	1143	Used RAM (bytes): 1170 (30%)  Free RAM (bytes): 2777 (70%)	Used RAM (bytes): 1170 (30%)  Free RAM (bytes): 2777 (70%)
+hint: 0	1143	Used ROM (bytes): 14940 (30%)  Free ROM (bytes): 34212 (70%)	Used ROM (bytes): 14940 (30%)  Free ROM (bytes): 34212 (70%)
+diagnostics: 0	125	Project Linked Successfully	SZZP_m.mcppi
+diagnostics: 0	128	Linked in 1719 ms	 
+diagnostics: 0	129	Project 'SZZP_m.mcppi' completed: 2579 ms	 
+diagnostics: 0	103	Finished successfully: 21 Dec 2022, 19:03:19	SZZP_m.mcppi
